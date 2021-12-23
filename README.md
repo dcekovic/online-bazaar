@@ -8,7 +8,9 @@ Simple bazaar app where useres can register their stores and sell their products
 # Back-end technologies:
 
 Java / SpringBoot
-(Eureka implemnted for fun - will share the discovery server url later)
+
+(Eureka implemnted for fun - Eureka discovery server url: https://github.com/dcekovic/discovery-server)
+
 PostgreSQL
 
 # Front-end technologies:
