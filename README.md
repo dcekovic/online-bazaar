@@ -15,4 +15,4 @@ PostgreSQL
 
 # Front-end technologies:
 
-undifined
+undefined
